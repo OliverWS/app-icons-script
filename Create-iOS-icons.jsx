@@ -77,7 +77,10 @@ function main() {
 
 		{"name": "Icon-57", "size":57},
 		{"name": "Icon-57@2x", "size":114},
-
+		
+		{"name": "Icon-29@2x", "size":58},
+		{"name": "Icon-29@3x", "size":87},
+		
 		{"name": "Icon-60@2x", "size":120},
 		{"name": "Icon-60@3x", "size":180},
 
